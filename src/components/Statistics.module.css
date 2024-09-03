@@ -1,0 +1,9 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.statItem {
+  font-size: 18px;
+}
