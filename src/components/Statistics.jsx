@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styles from './Statistics.module.css'; // Assuming you are using CSS Modules
+import styles from './Statistics.module.css'; 
 
 const Statistics = ({ good, neutral, bad, total, positivePercentage }) => (
   <div className={styles.statistics}>
